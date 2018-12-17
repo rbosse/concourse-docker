@@ -35,3 +35,4 @@ services:
     environment:
     - CONCOURSE_TSA_HOST=concourse-web:2222
     - CONCOURSE_GARDEN_NETWORK
+    - CONCOURSE_BAGGAGECLAIM_DRIVER=naive
