@@ -16,3 +16,7 @@ Ctrl-C
 et
 docker-compose down
 
+La console web sera disponible ici:
+
+http://localhost:8080/
+
